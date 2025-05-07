@@ -6,7 +6,7 @@ I'm a passionate backend developer with 5 years of experience building scalable 
 I'm always looking to improve my skills and deliver high-quality code following industry standards and best practices.
 
 🚀 Technologies & Experience
-Languages: Java (Spring Boot, Quarkus)
+Languages: Java (Spring Boot)
 
 Databases: Oracle, SQL, PL/SQL
 
