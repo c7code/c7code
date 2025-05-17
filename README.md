@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Carlos Henrique and my nickname is c97code!
+## My name is Carlos Henrique and my nickname is c7code!
 
 💻 Backend Developer | Java, Spring & Oracle
 I'm a passionate backend developer with 5 years of experience building scalable and efficient solutions. My main focus is Java, and I have deep expertise in Oracle databases. 
