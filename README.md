@@ -8,7 +8,7 @@ I'm always looking to improve my skills and deliver high-quality code following 
 🚀 Technologies & Experience
 Languages: Java (Spring Boot)
 
-Databases: Oracle, SQL, PL/SQL, Postgres, Mysql, MongoDB
+Databases: Oracle, SQL, PL/SQL, PostgreSQL, Mysql, MongoDB
 
 Architecture: Microservices, REST APIs
 
