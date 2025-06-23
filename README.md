@@ -10,7 +10,7 @@ Languages: Java (Spring Boot)
 
 Databases: Oracle, SQL, PL/SQL, PostgreSQL, Mysql, MongoDB
 
-Architecture: Microservices, REST APIs
+Architecture: Microservices, REST APIs, MVC, Clean architecture
 
 Tools: Docker, Kubernetes, Git
 
