@@ -12,7 +12,7 @@ Databases: Oracle, SQL, PL/SQL, PostgreSQL, Mysql, MongoDB
 
 Architecture: Microservices, REST APIs, MVC, Clean architecture
 
-Tools: Docker, Kubernetes, Git
+Tools: Docker, Kubernetes, Git, AWS.
 
 ❤️ Volunteer Work
 I believe technology can transform lives, so I dedicate time to volunteer projects, helping communities and nonprofits develop digital solutions for their challenges.
